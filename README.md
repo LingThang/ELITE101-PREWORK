@@ -1,17 +1,15 @@
 # Eite101-PreWork
 
-#This is a testing ReadMe for the Pull request 
+# Introduction
 
-#this is the 6th attempt, for everything
 
-#this line is from Replit.it
+This is a repository created by *Ling*
 
-Hello code to college
 
-## This Section is Added to the new branch
-this branch will be pushed to the repository as a new branch. <br/>
-you can add anthing here to test it
+## Usage
 
-#retesting everything to make sure i have this somewhat in the bag
 
-ReRERERERERER
+Run this command to execute the application:
+
+
+`python filename.py`
