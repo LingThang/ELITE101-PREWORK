@@ -2,7 +2,7 @@
 import random
 
 name = input("What is your name? ")
-print("Hi there, " + name  + ". My name is 2B, nice to meet you!")
+print("Hi there, " + name  + ". My name is 2B, your AI best friend! Nice to see you again!")
 
 #asks how their day was
 
@@ -16,4 +16,4 @@ print("Hi there, " + name  + ". My name is 2B, nice to meet you!")
 
 #Topics - Hobbies, weather, fav:(color, food, store, etc)
 
-#continuous expanding of topic - sub topics and questions
+#continuous expanding of topic - sub topics and questions untill User quits
