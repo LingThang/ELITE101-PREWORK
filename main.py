@@ -30,3 +30,17 @@ if storeinfo.upper == infoPermiN.upper:
   
 if storeinfo.upper == infoPermiY.upper:
   print("Thank you for your participation.")
+
+userID = input("What is your User Id.  " )
+print()
+
+ConfirmUserId = input(f' {userID}  Y/N ?')
+
+deliverID = input("What was the dilivery ID?")
+
+print("Id found, please wait a moment as we confirm your delivery status.  ")
+
+print('.')
+print('.')
+print('.')
+print('.')
